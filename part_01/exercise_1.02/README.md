@@ -1,6 +1,6 @@
 # Part 1 Exercise 2 - Todo-App
 
-Todo-app located in `/apps/todo-app` at commit [https://github.com/nirmalnaveen/kubernetes-devops/commit/<commit-id>](https://github.com/nirmalnaveen/kubernetes-devops/commit/<commit-id>). Published through Docker Hub at `nirmalnaveen/todo-app`.
+Published through Docker Hub at `nirmalnaveen/todo-app`.
 
 ## Deployment
 
