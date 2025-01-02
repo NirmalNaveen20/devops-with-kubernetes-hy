@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.env
+*.db
+*.sqlite3
+
+# Flask
+instance/
+*.log
+
+# Docker
+*.image
+*.docker
+*.tgz
+docker-app/
+todo-app:latest
+
+# Kubernetes
+*.yaml
+*.yml
+.kube/
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
